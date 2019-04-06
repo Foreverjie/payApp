@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "username": "jie",
+    "password": "1be6af03717a0906a774a129ac467fcea8f89849df003548a8039cffffb12baf",
+    "role": 11,
+    "bank": 500
+  }
+]
